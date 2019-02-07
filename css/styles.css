@@ -99,61 +99,60 @@ footer {
   color: #EF476F;
 }
 
-  .product-list {
+.product-list {
     overflow: hidden;
-  }
+}
 
-  .product-item {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-  }
+.product-item {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
 
-  .product-item > img {
-    border: 2px solid black;
-  }
+.product-item > img {
+  border: 2px solid black;
+}
 
-  .top {
-    overflow: hidden;
-    background-color: #26547C;
-    color: white;
-  }
+.top {
+  overflow: hidden;
+  background-color: #26547C;
+  color: white;
+}
 
-  .top-image {
-    float: left;
-    width: 60%;
-  }
+.top-image {
+  float: left;
+  width: 60%;
+}
 
-  .top-content {
-    float: right;
-    width: 40%;
-    font-size: 25px;
-  }
+.top-content {
+  float: right;
+  width: 40%;
+  font-size: 25px;
+}
 
-  .top-content > h2 {
-    border: 0;
-  }
+.top-content > h2 {
+  border: 0;
+}
 
-  header {
-    overflow: hidden;
-    height: 60px;
-    padding: 0 20px;
-  }
+header {
+  overflow: hidden;
+  height: 60px;
+  padding: 0px 20px;
+}
 
-  .logo {
-    float: left;
-    line-height: 60px;
-    font-size: 18px;
-  }
+.logo {
+  float: left;
+  line-height: 60px;
+  font-size: 18px;
+}
 
-  .navbar {
-    float: right;
-    padding: 0;
-  }
+.navbar {
+  float: right;
+  padding: 0;
+}
 
-  .nav-item {
-    display: inline-block;
-    margin-right: 10px;
-    line-height: 60px;
-  }
+.nav-item {
+  display: inline-block;
+  margin-right: 20px;
+  line-height: 60px;
 }
